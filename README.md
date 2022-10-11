@@ -63,8 +63,14 @@ Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e P
 | Fabrikam Trendsetter 1/3'' 8.5mm X200 Grey | 845
 | Fabrikam Trendsetter 1/3'' 8.5mm X200 White | 789
 
+## Apresentando informações de forma gráfica ##
+
 - Gráfico total de produtos vendidos
 
+![Gráfico total de produtos vendidos](https://github.com/pedrooliveirape/desafio_de_projeto_python_pandas_dio/blob/main/Datasets/Grafico_total_de_produtos_vendidos.png?raw=true)
+
 - Gráfico lucro por ano
+
+![Gráfico lucro por ano](https://github.com/pedrooliveirape/desafio_de_projeto_python_pandas_dio/blob/main/Datasets/Grafico_lucro_por_ano.png?raw=true)
 
  
