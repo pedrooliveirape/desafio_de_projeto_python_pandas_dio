@@ -3,7 +3,7 @@ Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e P
   
 :file_folder: Datasets - Arquivos .xlxs base
 
-:file_folder: Notebooks - Arquivos contendo códigos da exploração
+:file_folder: Notebooks - Arquivos contendo códigos da exploração e imagens dos gáficos
   
 ## Insights preliminares obtidos através da Análise Exploratória ##
 
