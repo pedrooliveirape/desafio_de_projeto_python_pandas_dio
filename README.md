@@ -1,9 +1,9 @@
 # Desafio de projeto - DIO - Python e Pandas  #
 Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e Pandas, no Bootcamp Geração Tech Unimed-BH - Ciências de Dados.
-
-:file_folder: Notebooks - Arquivos contendo códigos da exploração
   
 :file_folder: Datasets - Arquivos .xlxs base
+
+:file_folder: Notebooks - Arquivos contendo códigos da exploração
   
 ## Insights preliminares obtidos através da Análise Exploratória ##
 
