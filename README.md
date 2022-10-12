@@ -14,7 +14,9 @@ Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e P
   - Qual o tempo médio entre a venda e o envio do produto?
   - Qual o tempo médio entre a venda e o envio do produto por marca?
   - Qual o lucro de vendas por ano?
+  - Qual o lucro de vendas por loja?
   - Qual o lucro de vendas por marca?
+  - Qual o lucro de vendas por ano e loja?
   - Qual o lucro de vendas por ano e marca?
   - Qual o total de produtos vendidos?
 - [**Apresentando informações preliminares de forma gráfica**](https://github.com/pedrooliveirape/desafio_de_projeto_python_pandas_dio/blob/main/README.md#apresentando-informa%C3%A7%C3%B5es-de-forma-gr%C3%A1fica)
@@ -61,6 +63,14 @@ Lucro Bruto por Ano:
 | 2008 | 1.920.077,71 |
 | 2009 | 1.577.745,38 |
 
+Lucro Bruto por Loja:
+
+| ID Loja | Lucro Bruto |
+|--- |---: |
+| 199 | 1.294.718,51 |
+| 306 | 1.016.493,12 |
+| 307 | 1.186.611,46 |
+
 Lucro Bruto por Marca:
 
 | Marca | Lucro Bruto |
@@ -68,6 +78,17 @@ Lucro Bruto por Marca:
 | Adventure Works | 712.036,24 |
 | Contoso | 194.674,95 |
 | Fabrikam | 2.591.111,90 |
+
+Lucro Bruto por Ano e Loja:
+
+| Ano | ID Loja | Lucro Bruto |
+|--- |--- |---: |
+| 2008 | 199 | 738.540,81 |
+| | 306 | 593.037,44 |
+| | 307 | 588.499,47 |
+| 2009 | 199 | 556.177,71 |
+| | 306 | 423.455,69 |
+| | 307 | 598.111,99 |
 
 Lucro Bruto por Ano e Marca:
 
