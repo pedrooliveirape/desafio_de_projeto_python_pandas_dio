@@ -7,7 +7,7 @@ Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e P
   
 ## Sumário - Resultado da Análise Exploratória ##
 
-- **Questionamentos preliminares que podem ser feitos na Análise Exploratória**
+- [**Questionamentos preliminares que podem ser feitos na Análise Exploratória**](https://github.com/pedrooliveirape/desafio_de_projeto_python_pandas_dio/blob/main/README.md#insights-preliminares-obtidos-atrav%C3%A9s-da-an%C3%A1lise-explorat%C3%B3ria)
   - Qual a receita total de vendas?
   - Qual o custo total das vendas realizadas?
   - Qual o lucro bruto obtido das vendas?
