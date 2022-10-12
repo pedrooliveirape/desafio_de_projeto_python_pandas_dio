@@ -1,9 +1,9 @@
 # Desafio de projeto - DIO - Python e Pandas  #
 Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e Pandas, no Bootcamp Geração Tech Unimed-BH - Ciências de Dados.
   
-:file_folder: Datasets - Arquivos .xlxs base
+:file_folder: **Datasets** - *base de dados em arquivos .xlxs e imagens dos gráficos*
 
-:file_folder: Notebooks - Arquivos contendo códigos da exploração e imagens dos gáficos
+:file_folder: **Notebooks** - *Arquivos contendo códigos da exploração Jupyter Notebook*
   
 ## Sumário - Resultado da Análise Exploratória ##
 
@@ -17,13 +17,13 @@ Repositório criado no Desafio de Projeto DIO - Análise de dados com Python e P
   - Qual o lucro de vendas por marca?
   - Qual o lucro de vendas por ano e marca?
   - Qual o total de produtos vendidos?
-- **Apresentando informações preliminares de forma gráfica**
+- [**Apresentando informações preliminares de forma gráfica**](https://github.com/pedrooliveirape/desafio_de_projeto_python_pandas_dio/blob/main/README.md#apresentando-informa%C3%A7%C3%B5es-de-forma-gr%C3%A1fica)
   - Gráfico total de produtos vendidos
   - Gráfico lucro por ano
   - Gráfico de Lucro x Mês
   - Gráfico de Lucro x Marca
   - Gráfico de Lucro x Classe
-- **Análises estatísticas com base no tempo de envio**
+- [**Análises estatísticas com base no tempo de envio**](https://github.com/pedrooliveirape/desafio_de_projeto_python_pandas_dio/blob/main/README.md#realizando-an%C3%A1lises-estat%C3%ADsticas-com-base-no-tempo-de-envio)
   - Análises estatísticas
   - Gráfico de Boxplot
   - Histograma
